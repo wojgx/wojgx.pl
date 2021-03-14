@@ -36,15 +36,16 @@ tags:
 <li>OpenVPN &ndash; <a href="https://github.com/Nyr/openvpn-install">https://github.com/Nyr/openvpn-install</a></li>
 <li>AlgoVPN &ndash; <a href="https://github.com/trailofbits/algo">https://github.com/trailofbits/algo</a></li>
 </ul>
+<p>&nbsp;</p>
 <p>Oba rozwiązania r&oacute;żnią się szyfrowaniem i pod względem wykorzystanych protokoł&oacute;w, od siebie zdecydowanie bardziej mogę polecić AlgoVPN z kt&oacute;rego przez dłuższy czas korzystałem. Mniej organicza łącze, a ma większy poziom szyfrowania niż OpenVPN.</p>
 <p>Tani hosting pod VPNa, gdzie VPS jest za 2,5 USD</p>
+<p><a href="https://www.vultr.com/" target="_blank" rel="noopener">https://www.vultr.com/</a></p>
 <figure class="wp-block-embed">
-<div class="wp-block-embed__wrapper">https://www.vultr.com/</div>
+<div class="wp-block-embed__wrapper">&nbsp;</div>
 </figure>
 <p>r&oacute;wnież tani hosting pod serwer, ale tym razem w Europie za 3.06 EURO</p>
-<figure class="wp-block-embed">
-<div class="wp-block-embed__wrapper">https://www.hetzner.com/?country=pl</div>
-</figure>
+<p><a href="https://www.hetzner.com/" target="_blank" rel="noopener">https://www.hetzner.com/</a></p>
+<p>&nbsp;</p>
 <h3 id="rozwi-zanie-subskrybcyjne">Rozwiązanie subskrybcyjne</h3>
 <h5 id="protonvpn">ProtonVPN</h5>
 <p>Istnieje jedno darmowe rozwiązanie, kt&oacute;re nazywa się ProtonVPN, kt&oacute;ry w darmowej opcji umożliwia 1 połączenie z siecią w 3 lokalizacjach w średniej prędkości. Proton pochodzi ze Szwajcarii, a kraj ten jest znany z ich rygorystycznych zasad dotyczących danych i prywatności.</p>
