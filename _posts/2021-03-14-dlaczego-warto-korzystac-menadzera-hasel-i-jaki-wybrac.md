@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Authy
+title: Dlaczego warto korzystać menadżera haseł i jaki wybrać?
 description: >-
   Menadżer haseł, czyli nasza baza z najważniejszymi danymi do logowania w
   różnych serwisach i nie tylko. W tym wpisie dowiesz się dlaczego warto z niego
