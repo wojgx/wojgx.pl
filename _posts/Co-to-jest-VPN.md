@@ -1,6 +1,9 @@
 ---
-{}
-
+layout: post
+title: Co to jest VPN?
+description: VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w dodatku bardzo utrudnia identyfikację tożsamości.
+summary: VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w dodatku bardzo utrudnia identyfikację tożsamości.
+tags: [cyberbezpieczeństwo]
 ---
 <div class="entry-content">
 <p>VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w dodatku bardzo utrudnia identyfikację tożsamości.</p>
