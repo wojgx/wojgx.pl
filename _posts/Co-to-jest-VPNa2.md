@@ -1,67 +1,39 @@
 ---
 layout: post
-title: Co to jest VPN?
+title: Porzuć swój komunikator na rzecz Signala i chroń swoją prywatność!
 description: >-
-  VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna
-  sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w
-  dodatku bardzo utrudnia identyfikację tożsamości.
+  Warto porzucić najpopularniejsze komunikatory stworzone przez korporacje jak
+  Facebook, Telegram, Wire, Line na rzecz Signala. Dlaczego warto? Dowiecie się
+  czytając ten wpis do końca.
 summary: >-
-  VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna
-  sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w
-  dodatku bardzo utrudnia identyfikację tożsamości.
+  Warto porzucić najpopularniejsze komunikatory stworzone przez korporacje jak
+  Facebook, Telegram, Wire, Line na rzecz Signala. Dlaczego warto? Dowiecie się
+  czytając ten wpis do końca.
 tags:
   - cyberbezpieczeństwo
 
 ---
-<div class="entry-content">
-<p>VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w dodatku bardzo utrudnia identyfikację tożsamości.</p>
-<h2 id="kategorie-sieci-vpn">Kategorie sieci VPN</h2>
-<p>Sieć VPN możemy podzielić na dwie kategorie:</p>
-<p><strong>firmowy</strong> &ndash; pozwalający nam na połączenie się z służbowy komputerem w pracy z dowolengo miejsca na świecie. Ruch w takiej sieci może być monitorowany przez administratora, czyli firmę w kt&oacute;rej pracujemy. Działania w takiej sieci mogą być ograniczone.</p>
-<p><strong>prywatny</strong> &ndash; pozwalający nam na anonimizację i ochronę tożsamości, czyli zmianę adresu ip i wirtualnej lokalizacji. Ruch w takiej sieci r&oacute;wnież może być monitorowany, ale im lepszy VPN, tym mniej informacji zbiera. Gdy połączymy się z taką siecią możemy przeglądać dowolne treści np. niedostępne dla naszego kraju ze względu na ograniczenia geoterytorialne np. Netflix.</p>
-<h2 id="jak-dzia-a-vpn">Jak działa VPN?</h2>
-<p>VPN to szyfrowane połączenie między dwiema sieciami lub między użytkownikiem i siecią.</p>
-<figure class="wp-block-image"><img src="https://i.imgur.com/v3DcxEH.png" alt="Jak działa sieć VPN" /></figure>
-<h2 id="dlaczego-korzystanie-z-vpn-a-jest-takie-wa-ne">Dlaczego korzystanie z VPN&rsquo;a jest takie ważne?</h2>
-<p>Korzystanie z sieci VPN jest ważne, ponieważ, dzięki temu po pierwsze nasz dostawca internetu widzi, że jesteśmy z jakimś serwerem połączeni, ale nie może analizować ruchu w sieci ani go ograniczać w żaden spos&oacute;b. Pozwala na omijanie cenzury i ograniczeń geograficznych przykładowo, gdy jesteśmy w kraju, gdzie jest cenzura jak Rosja, Chiny czy Turcja, Iran.</p>
-<p>Dodaje nam większego bezpieczeństwa przy korzystaniu z publicznych sieci wifi, ale og&oacute;lnie się nie zaleca podłączać nawet z VPN&rsquo;em do takiej sieci. Umożliwa nam pobieranie torrent&oacute;w oraz pozwala na ochronę przed atakami typu DDoS, czyli odmowy usługi &ndash; masowy atak na ofiarę.</p>
-<figure class="wp-block-image"><img src="https://i.imgur.com/fS5VZLr.png" alt="323" /></figure>
-<h2 id="jakiego-vpn-a-wybra-">Jakiego VPN&rsquo;a wybrać?</h2>
-<p>Na rynku mamy wiele dostępnych rozwiązań bezpłatne i płatne, ale dlaczego nie warto korzystać z bezpłatnego?</p>
-<p>Bezpłatny VPN w rzeczywistości jest bezpłatny, ale płacimy w nim danymi i analizą całego ruchu sieciowego, zmienia adres ip, ale wszelkie działania są monitorowane i logowane, tak jak w przypadku komercyjnych rozwiązań.</p>
-<p>Mamy rozwiązania takie, kt&oacute;re możemy samodzielnie zainstalować na serwerze i takie, kt&oacute;re sprzedają gotową usługę w formie subskrybcji, czyli za opłatą miesięczną otrzymujemy dostęp do danej ilości serwer&oacute;w w r&oacute;żnych lokalizacjach.<br />Selfhosted</p>
-<p>Opcja dla bardziej zaawansowanych, ponieważ tutaj trzeba potrafić zainstalować serwer VPN na swoim serwerze VPS.</p>
-<p>Rozwiązania są dwa:</p>
+<h2 id="podstawowe-funkcje-">Podstawowe funkcje.</h2>
+<p>Signal niby typowy komunikator, ale jednak niekoniecznie. Posiada wszystkie podstawowe funkcje komunikatora jak wysyłanie szyfrowanych wiadomości tekstowych oraz szyfrowanych głosowych rozm&oacute;w głosowych i video do 8 os&oacute;b. Wspiera możliwość wysyłania naklejek, emoji oraz gif&oacute;w, a co ważne nie posiada wbudowanego &bdquo;stories&rdquo;, ale to nie jedyny plus tego komunikatora. Warto r&oacute;wnież wspomnieć, że nie ma wbudowanych gier ani reklam.</p>
+<h2 id="ile-to-kosztuje-i-czemu-tak-drogo">Ile to kosztuje i czemu tak drogo?</h2>
+<p>Signal to darmowy komunikator dostępny na najpopularniejsze systemy operacyjne, jest dostępny zar&oacute;wno na komputery jak i aplikacja mobilna dostępna w oficjalnych sklepach AppStore i Google Play. Wspierane systemy? Mac, iOS/iPadOS, Android, Windows i Linux.</p>
+<p>Z czego się, więc utrzymuje? Signal to aplikacja tworzona w 100% z dotacji, więc nie jest finansowana przez żadną korporację.</p>
+<h2 id="bezpiecze-stwo-i-przewaga-nad-whatsappem-czy-telegramem-">Bezpieczeństwo i przewaga nad WhatsAppem czy Telegramem.</h2>
+<figure class="wp-block-image"><img src="https://i.imgur.com/qDFhj67.png" alt="" /></figure>
+<p>WhatsAppa właściwie można z g&oacute;ry odrzucić, ponieważ po pierwsze należy do Facebook&rsquo;a. Owszem są szyfrowane rozmowy, ale to nie wszystko czego należy wymagać od komunikatora. WhatsApp może przekazywać takie informacje jak spos&oacute;b płatności, historię zakup&oacute;w, lokalizację, adresy ip ,numer telefonu, adres e-mail, kontakty, informacje diagnostyczne oraz inne metadane. Jeśli posiadacie konto na Facebook&rsquo;u to zapewne Facebook już połączył wasze konto WhatsAppa z tym kontem.</p>
+<figure class="wp-block-image"><img src="https://i.imgur.com/I23RptN.png" alt="" /></figure>
+<p>WhatsApp miał już wpadkę i to nie jedną (!) m.in. z wyciekającymi linkami do grupowych konwersacji do Google.</p>
+<figure class="wp-block-image"><img src="https://i.imgur.com/msgViGa.png" alt="" /></figure>
+<p>Telegram wydaje się być ok, ale też nie szyfruje wszystkiego, więc nie gwarantuje pełnej poufności i m&oacute;wiąc wprost sprzedaje dane użytkownik&oacute;w służbą, gdy te o nie poproszą. Komunikator ten wykorzystuje własną kryptografię. Warto r&oacute;wnież wspomnieć, że za Telegramem stoi Rosjanin, kt&oacute;ry &bdquo;jest na wygnaniu&rdquo; i prowadzi swoją Londyńską sp&oacute;łkę z ZEA.</p>
+<figure class="wp-block-image"><img src="https://i.imgur.com/9bkK01y.png" alt="" /></figure>
+<p>Model biznesowy tego komunikatora jest bardzo prosty, tw&oacute;rcy stawiają prywatność nad zarobkiem. Nie przekazują danych, bo nie ma czego przekazywać, a tak właśnie wygląda przykładowy załącznik przekazany FBI</p>
+<figure class="wp-block-image"><img src="https://i.imgur.com/WUo4loS.png" alt="" /></figure>
+<p>Nie ma tu jakichkolwiek wartościowych informacji.</p>
+<p>A co najważniejsze ma otwarty kod źr&oacute;dłowy.</p>
+<p>Signal jest polecany przez wielu r&oacute;żnych ludzi od os&oacute;b zajmujących się bezpieczeństwem po szarych ludzi. A to kilku z nich</p>
 <ul>
-<li>OpenVPN &ndash; <a href="https://github.com/Nyr/openvpn-install">https://github.com/Nyr/openvpn-install</a></li>
-<li>AlgoVPN &ndash; <a href="https://github.com/trailofbits/algo">https://github.com/trailofbits/algo</a></li>
+<li>Edward Snowden &ndash; obrońca prywatności</li>
+<li>Jack Dorsey &ndash; CEO Twitter&rsquo;a i Square</li>
+<li>Piotr Konieczny &ndash; CEO Niebezpiecznika</li>
 </ul>
-<p>Oba rozwiązania r&oacute;żnią się szyfrowaniem i pod względem wykorzystanych protokoł&oacute;w, od siebie zdecydowanie bardziej mogę polecić AlgoVPN z kt&oacute;rego przez dłuższy czas korzystałem. Mniej organicza łącze, a ma większy poziom szyfrowania niż OpenVPN.</p>
-<p>Tani hosting pod VPNa, gdzie VPS jest za 2,5 USD</p>
-<figure class="wp-block-embed">
-<div class="wp-block-embed__wrapper">https://www.vultr.com/</div>
-</figure>
-<p>r&oacute;wnież tani hosting pod serwer, ale tym razem w Europie za 3.06 EURO</p>
-<figure class="wp-block-embed">
-<div class="wp-block-embed__wrapper">https://www.hetzner.com/?country=pl</div>
-</figure>
-<h3 id="rozwi-zanie-subskrybcyjne">Rozwiązanie subskrybcyjne</h3>
-<h5 id="protonvpn">ProtonVPN</h5>
-<p>Istnieje jedno darmowe rozwiązanie, kt&oacute;re nazywa się ProtonVPN, kt&oacute;ry w darmowej opcji umożliwia 1 połączenie z siecią w 3 lokalizacjach w średniej prędkości. Proton pochodzi ze Szwajcarii, a kraj ten jest znany z ich rygorystycznych zasad dotyczących danych i prywatności.</p>
-<p>Na stronie chwalą się, że nie zapisują log&oacute;w, chronią wysokim szyfrowaniem AES-256 z pomocą protokoł&oacute;w OpenVPNa.</p>
-<p>Jednakże osobiście nieufam tej darmowej usłudze, więc jak chcecie możecie skorzystać, ale na własną odpowiedzialność.</p>
-<p>ProtonVPN posiada poza darmowymi opcjami r&oacute;wnież płatne, im droższy tym więcej serwer&oacute;w wsiera i tym większa prędkość.</p>
-<figure class="wp-block-image"><img src="https://i.imgur.com/h0YGZDB.png" alt="vv" /></figure>
-<h5 id="nordvpn">NordVPN</h5>
-<p>Na koniec rozwiązanie z kt&oacute;rego korzystam na codzień, czyli NordVPN, jak na razie to jest najlepszy VPN z kt&oacute;rego korzystałem w formie subskrybcji.</p>
-<p>Siedziba Norda znajduje się w Panamie, posiada on 5559 serwer&oacute;w w 59 krajach na świecie. Wspiera najpopularniejsze protokoły:</p>
-<ul>
-<li>OpenVPN UDP/TCP,</li>
-<li>IKEv2/IPSec,</li>
-<li>NordLynx</li>
-</ul>
-<p>Posiada serwery pozwalające na połączenie z Torem, dostępne są serwery r&oacute;wnież przystosowane do P2P i możliwość połączenia z dwoma serwerami VPN jednocześnie.</p>
-<p>W przeciwieństwie do Protona NordVPN posiada jedną opcję do wyboru, kt&oacute;ra oferuje nam dostęp do wszystkich serwer&oacute;w. R&oacute;żni się tylko czas i cena w opcjach, ale dostęp jest taki sam.</p>
-<figure class="wp-block-image"><img src="https://i.imgur.com/KpZjUoz.png" alt="nord" /></figure>
-<p>Serwery Norda pozwalają na swodobne przeglądanie internetu, oglądanie film&oacute;w, słuchanie muzyki, granie.</p>
-</div>
+<p>i ja.</p>
