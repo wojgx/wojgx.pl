@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Czy mój telefon mnie słucha?
+title: Co to są dane biometryczne i czy są one bezpieczne?
 description: >-
   uturystyczne skanery oczu i drzwi aktywowane głosem to już nie tylko motywy z
   hollywoodzkich thrillerów szpiegowskich. Obecnie możemy odblokowywać
