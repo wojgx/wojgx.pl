@@ -2,16 +2,41 @@
 layout: post
 title: Authy
 description: >-
-  To aplikacja do dwuetapowej weryfikacji, alternatywa dla Google Authenticator.
-  Dlaczego Authy jest lepsze od rozwiązania Google?
+  Menadżer haseł, czyli nasza baza z najważniejszymi danymi do logowania w
+  różnych serwisach i nie tylko. W tym wpisie dowiesz się dlaczego warto z niego
+  korzystać oraz jaki wybrać.
 summary: >-
-  To aplikacja do dwuetapowej weryfikacji, alternatywa dla Google Authenticator.
-  Dlaczego Authy jest lepsze od rozwiązania Google?
+  Menadżer haseł, czyli nasza baza z najważniejszymi danymi do logowania w
+  różnych serwisach i nie tylko. W tym wpisie dowiesz się dlaczego warto z niego
+  korzystać oraz jaki wybrać.
 tags:
   - cyberbezpieczeństwo
 
 ---
-<p>Podstawową funkcją jaką pełnią obie aplikacje, to generowanie kod&oacute;w jednorazowych w trybie online/offline, więc wygenerowanie kodu nie wymaga podłączenie do internetu, dostępne są na iOSa i Androida, z<br />przydatną r&oacute;żnicą na plus Authy, kt&oacute;ry r&oacute;wnież jest dostępny na Apple Watcha i komputery.</p>
-<p>W rozwiązaniu od Google, jeśli chcemy skorzystać na innym sprzęcie to musimy od nowa zeskanować kod qr lub wpisać kod ręcznie, aby dodać jednorazowe kody. W Authy istnieje możliwość tworzenia zaszyfrowanych kopii zapasowych, dzięki kt&oacute;rym w szybki spos&oacute;b na dowolnym urządzeniu możemy przywr&oacute;cić nasze kody, aby to zrobić wystarczy w aplikacji podać numer telefonu na kt&oacute;ry otrzymamy kod przez smsa w celu weryfikacji, istnieje r&oacute;wnież alternatywna metoda logowania przez potwierdzenie logowania w już istniejącej aplikacji przez potwierdzenie.</p>
-<p>Authy możemy zabezpieczyć za pomocą hasła do kopii zapasowej, hasła gł&oacute;wnego i pinu.</p>
-<p><a href="https://authy.com/download/" target="_blank" rel="noopener">https://authy.com/download/</a></p>
+<h2 id="co-to-jest-menad-er-hase-">Co to jest Menadżer haseł?</h2>
+<p><strong>Menadżer haseł</strong> to po prostu bezpieczna baza zawierająca loginy i hasła, piny, czasami r&oacute;wnież kody do dwuetapowego logowania, pozwala zarządzać ważnymi danymi wrażliwymi, jest ona zabezpieczona przed nieautoryzowanym logowaniem.</p>
+<p>Dzięki menadżerowi haseł nie musisz pamiętać wszystkich swoich haseł, wystarczy, że zapamiętasz dwa hasła. Jedno do komputera, a drugie do samego menadżera. Menadżer pozwala na przechowywanie skomplikowanych i długich haseł, a także ich wygenerowanie, dzięki wbudowanemu generatorowi.</p>
+<h2 id="polityka-bezpiecznego-has-a">Polityka bezpiecznego hasła</h2>
+<p><strong>Co to znaczy bezpieczne hasło?</strong></p>
+<p>Bezpieczne hasło to takie, kt&oacute;re składa się z:</p>
+<ul>
+<li>minimum 8 znak&oacute;w,</li>
+<li>nie zawiera nazwy twojej usługi oraz danych, kt&oacute;re można z tobą powiązać,</li>
+<li>małych i dużych liter</li>
+<li>cyfr oraz znak&oacute;w specjalnych (np. !, @,$,%)</li>
+</ul>
+<h2 id="jakie-menad-er-hase-wybra-">Jakie menadżer haseł wybrać?</h2>
+<p>Menadżery haseł można podzielić na</p>
+<h5 id="selfhosted-samohostowane">Selfhosted &ndash; samohostowane</h5>
+<p>Takie, kt&oacute;re możemy zainstalować samodzielnie na serwerze lub komputerze.</p>
+<ul>
+<li>do instalacji na serwerze:</li>
+</ul>
+<p><a href="https://github.com/bitwarden/server">https://github.com/bitwarden/server</a></p>
+<ul>
+<li>do instalacji na komputerze:</li>
+</ul>
+<p><a href="https://keepassxc.org/">https://keepassxc.org/</a></p>
+<h5 id="centralizowane">Centralizowane</h5>
+<p>Takie z kt&oacute;rych możemy korzystać instalując zaledwie rozszerzenie do przeglądarki.</p>
+<p><a href="https://bitwarden.com/">https://bitwarden.com/</a></p>
