@@ -31,7 +31,7 @@ tags:
 <p>Bezpłatny VPN w rzeczywistości jest bezpłatny, ale płacimy w nim danymi i analizą całego ruchu sieciowego, zmienia adres ip, ale wszelkie działania są monitorowane i logowane, tak jak w przypadku komercyjnych rozwiązań.</p>
 <p>Mamy rozwiązania takie, kt&oacute;re możemy samodzielnie zainstalować na serwerze i takie, kt&oacute;re sprzedają gotową usługę w formie subskrybcji, czyli za opłatą miesięczną otrzymujemy dostęp do danej ilości serwer&oacute;w w r&oacute;żnych lokalizacjach.<br />Selfhosted</p>
 <p>Opcja dla bardziej zaawansowanych, ponieważ tutaj trzeba potrafić zainstalować serwer VPN na swoim serwerze VPS.</p>
-<p>Rozwiązania są dwa:</p>
+<p><strong>Rozwiązania są dwa</strong>:</p>
 <ul>
 <li>OpenVPN &ndash; <a href="https://github.com/Nyr/openvpn-install">https://github.com/Nyr/openvpn-install</a></li>
 <li>AlgoVPN &ndash; <a href="https://github.com/trailofbits/algo">https://github.com/trailofbits/algo</a></li>
