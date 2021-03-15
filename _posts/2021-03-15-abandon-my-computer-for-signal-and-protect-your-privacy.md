@@ -1,39 +1,37 @@
 ---
 layout: post
-title: Porzuć swój komunikator na rzecz Signala i chroń swoją prywatność!
+title: Ditch your instant messenger in favor of Signal and protect your privacy!
 description: >-
-  Warto porzucić najpopularniejsze komunikatory stworzone przez korporacje jak
-  Facebook, Telegram, Wire, Line na rzecz Signala. Dlaczego warto? Dowiecie się
-  czytając ten wpis do końca.
+  It's worth ditching the most popular instant messengers created by
+  corporations like Facebook, Telegram, Wire, Line in favor of Signal. Why is it
+  worth it? You will find out by reading this entry to the end.
 summary: >-
-  Warto porzucić najpopularniejsze komunikatory stworzone przez korporacje jak
-  Facebook, Telegram, Wire, Line na rzecz Signala. Dlaczego warto? Dowiecie się
-  czytając ten wpis do końca.
+  It's worth ditching the most popular instant messengers created by
+  corporations like Facebook, Telegram, Wire, Line in favor of Signal. Why is it
+  worth it? You will find out by reading this entry to the end.
 tags:
-  - cyberbezpieczeństwo
+  - cybersecurity
+  - en
 
 ---
-<h2 id="podstawowe-funkcje-">Podstawowe funkcje.</h2>
-<p>Signal niby typowy komunikator, ale jednak niekoniecznie. Posiada wszystkie podstawowe funkcje komunikatora jak wysyłanie szyfrowanych wiadomości tekstowych oraz szyfrowanych głosowych rozm&oacute;w głosowych i video do 8 os&oacute;b. Wspiera możliwość wysyłania naklejek, emoji oraz gif&oacute;w, a co ważne nie posiada wbudowanego &bdquo;stories&rdquo;, ale to nie jedyny plus tego komunikatora. Warto r&oacute;wnież wspomnieć, że nie ma wbudowanych gier ani reklam.</p>
-<h2 id="ile-to-kosztuje-i-czemu-tak-drogo">Ile to kosztuje i czemu tak drogo?</h2>
-<p>Signal to darmowy komunikator dostępny na najpopularniejsze systemy operacyjne, jest dostępny zar&oacute;wno na komputery jak i aplikacja mobilna dostępna w oficjalnych sklepach AppStore i Google Play. Wspierane systemy? Mac, iOS/iPadOS, Android, Windows i Linux.</p>
-<p>Z czego się, więc utrzymuje? Signal to aplikacja tworzona w 100% z dotacji, więc nie jest finansowana przez żadną korporację.</p>
-<h2 id="bezpiecze-stwo-i-przewaga-nad-whatsappem-czy-telegramem-">Bezpieczeństwo i przewaga nad WhatsAppem czy Telegramem.</h2>
+<h2 id="podstawowe-funkcje-">Essential Functions.</h2>
+<p>Signal seems like a typical instant messenger, but not necessarily. It has all the basic instant messaging features like sending encrypted text messages and encrypted voice and video calls to up to 8 people. It supports the ability to send stickers, emoji and gifs, and importantly it doesn't have built-in stories, but that's not the only plus of this communicator. It is also worth mentioning that there are no built-in games or ads.</p>
+<h2 id="ile-to-kosztuje-i-czemu-tak-drogo">How much does it cost and why is it so expensive?</h2>
+<p>Signal is a free instant messaging application available for the most popular operating systems, it is available for both computers and mobile application available in the official AppStore and Google Play stores. Supported systems? Mac, iOS/iPadOS, Android, Windows and Linux.<br /><br />What does it do for a living, then? Signal is a 100% donation-based application, so it is not funded by any corporation.</p>
+<h2 id="bezpiecze-stwo-i-przewaga-nad-whatsappem-czy-telegramem-">Security and advantage over WhatsApp or Telegram.</h2>
 <figure class="wp-block-image"><img src="https://i.imgur.com/qDFhj67.png" alt="" /></figure>
-<p>WhatsAppa właściwie można z g&oacute;ry odrzucić, ponieważ po pierwsze należy do Facebook&rsquo;a. Owszem są szyfrowane rozmowy, ale to nie wszystko czego należy wymagać od komunikatora. WhatsApp może przekazywać takie informacje jak spos&oacute;b płatności, historię zakup&oacute;w, lokalizację, adresy ip ,numer telefonu, adres e-mail, kontakty, informacje diagnostyczne oraz inne metadane. Jeśli posiadacie konto na Facebook&rsquo;u to zapewne Facebook już połączył wasze konto WhatsAppa z tym kontem.</p>
+<p>WhatsApp can actually be rejected in advance, because first of all it belongs to Facebook. Yes there are encrypted conversations but that's not all you need from a messenger. WhatsApp can transmit information such as payment method, purchase history, location, ip addresses, phone number, email address, contacts, diagnostic information and other metadata. If you have a Facebook account then probably Facebook has already linked your WhatsApp account to it.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/I23RptN.png" alt="" /></figure>
-<p>WhatsApp miał już wpadkę i to nie jedną (!) m.in. z wyciekającymi linkami do grupowych konwersacji do Google.</p>
+<p>WhatsApp has already had a slip-up, and not one (!) with leaked links to group conversations to Google, among others.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/msgViGa.png" alt="" /></figure>
-<p>Telegram wydaje się być ok, ale też nie szyfruje wszystkiego, więc nie gwarantuje pełnej poufności i m&oacute;wiąc wprost sprzedaje dane użytkownik&oacute;w służbą, gdy te o nie poproszą. Komunikator ten wykorzystuje własną kryptografię. Warto r&oacute;wnież wspomnieć, że za Telegramem stoi Rosjanin, kt&oacute;ry &bdquo;jest na wygnaniu&rdquo; i prowadzi swoją Londyńską sp&oacute;łkę z ZEA.</p>
+<p>Telegram seems ok, but it also doesn't encrypt everything, so it doesn't guarantee full confidentiality and, to put it bluntly, sells user data to the services when they ask for it. This messenger uses its own cryptography. It is also worth mentioning that there is a Russian behind Telegram who is "in exile" and runs his London, UAE-based company.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/9bkK01y.png" alt="" /></figure>
-<p>Model biznesowy tego komunikatora jest bardzo prosty, tw&oacute;rcy stawiają prywatność nad zarobkiem. Nie przekazują danych, bo nie ma czego przekazywać, a tak właśnie wygląda przykładowy załącznik przekazany FBI</p>
+<p>The business model of this messenger is very simple, the creators prioritize privacy over making money. They don't pass on data because there is nothing to pass on, and this is what the sample attachment given to the FBI looks like</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/WUo4loS.png" alt="" /></figure>
-<p>Nie ma tu jakichkolwiek wartościowych informacji.</p>
-<p>A co najważniejsze ma otwarty kod źr&oacute;dłowy.</p>
-<p>Signal jest polecany przez wielu r&oacute;żnych ludzi od os&oacute;b zajmujących się bezpieczeństwem po szarych ludzi. A to kilku z nich</p>
+<p>It doesn't have any valuable information.<br /><br />And most importantly it has open source code.<br /><br />Signal is recommended by a wide variety of people from security people to gray people. And these are a few of them</p>
 <ul>
-<li>Edward Snowden &ndash; obrońca prywatności</li>
-<li>Jack Dorsey &ndash; CEO Twitter&rsquo;a i Square</li>
+<li>Edward Snowden &ndash; privacy advocate</li>
+<li>Jack Dorsey &ndash; Twitter's CEO and Square</li>
 <li>Piotr Konieczny &ndash; CEO Niebezpiecznika</li>
 </ul>
-<p>i ja.</p>
+<p>and me.</p>
