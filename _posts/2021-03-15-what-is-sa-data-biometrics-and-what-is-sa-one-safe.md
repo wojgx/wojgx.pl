@@ -1,62 +1,53 @@
 ---
 layout: post
-title: Co to są dane biometryczne i czy są one bezpieczne?
+title: What is biometric data and is it secure?
 description: >-
-  uturystyczne skanery oczu i drzwi aktywowane głosem to już nie tylko motywy z
-  hollywoodzkich thrillerów szpiegowskich. Obecnie możemy odblokowywać
-  urządzenia za pomocą naszych twarzy i odcisków kciuków; technologia
-  biometryczna to nowa norma. Często przedstawia się ją jako najłatwiejszy i
-  najbezpieczniejszy sposób ochrony smartfona lub miejsca o wysokim poziomie
-  bezpieczeństwa. W końcu nikt nie może ukraść twoich odcisków palców… prawda?
+  Futuristic eye scanners and voice-activated doors are no longer just themes
+  from Hollywood spy thrillers. We can now unlock devices with our faces and
+  thumbprints; biometric technology is the new norm. It is often presented as
+  the easiest and safest way to protect your smartphone or high-security
+  location. After all, no one can steal your fingerprints... right?
 summary: >-
-  uturystyczne skanery oczu i drzwi aktywowane głosem to już nie tylko motywy z
-  hollywoodzkich thrillerów szpiegowskich. Obecnie możemy odblokowywać
-  urządzenia za pomocą naszych twarzy i odcisków kciuków; technologia
-  biometryczna to nowa norma. Często przedstawia się ją jako najłatwiejszy i
-  najbezpieczniejszy sposób ochrony smartfona lub miejsca o wysokim poziomie
-  bezpieczeństwa. W końcu nikt nie może ukraść twoich odcisków palców… prawda?
+  Futuristic eye scanners and voice-activated doors are no longer just themes
+  from Hollywood spy thrillers. We can now unlock devices with our faces and
+  thumbprints; biometric technology is the new norm. It is often presented as
+  the easiest and safest way to protect your smartphone or high-security
+  location. After all, no one can steal your fingerprints... right?
 tags:
-  - cyberbezpieczeństwo
+  - cybersecurity
+  - en
 
 ---
-<p>Być może nie jest to takie proste. Czy naprawdę zastanowiliśmy się nad konsekwencjami przechowywania i wykorzystywania danych biometrycznych? Może i jest to wygodne, ale czy bezpieczne?</p>
-<h2 id="co-to-s-dane-biometryczne">Co to są dane biometryczne?</h2>
-<p>Identyfikacja biometryczna to system, kt&oacute;ry pomaga rozpoznać osobę na podstawie jej unikalnych cech fizycznych. W tym artykule będziemy odnosić się do tych cech jako do &bdquo;danych biometrycznych&rdquo;.</p>
-<p>Istnieje ponad 20 unikalnych identyfikator&oacute;w, w tym odciski palc&oacute;w, rysy twarzy i cechy głosu. Przyjrzymy się im i innym bardziej szczeg&oacute;łowo w dalszej części artykułu.</p>
-<h2 id="jak-dzia-a-uwierzytelnianie-biometryczne">Jak działa uwierzytelnianie biometryczne?</h2>
-<p>Technologia biometryczna jest wykorzystywana do uwierzytelniania tożsamości danej osoby. Jest to już cecha wielu urządzeń osobistych, ale jest r&oacute;wnież stosowana w celu zapewnienia dodatkowego bezpieczeństwa w obszarach o wysokim stopniu restrykcji. Rządy i korporacje zwracają się ku uwierzytelnianiu biometrycznemu, aby chronić zar&oacute;wno fizyczne, jak i cyfrowe lokalizacje.</p>
-<p>Niezależnie od tego, kto ich używa, wszystkie biometryczne systemy zabezpieczeń zawierają trzy kluczowe elementy:</p>
+<p>Perhaps it is not that simple. Have we really thought about the implications of storing and using biometric data? It may be convenient, but is it safe?</p>
+<h2 id="co-to-s-dane-biometryczne">What is biometric data?</h2>
+<p>Biometric identification is a system that helps recognize a person based on their unique physical characteristics. In this article, we will refer to these characteristics as "biometrics."<br /><br />There are over 20 unique identifiers, including fingerprints, facial features, and voice characteristics. We will look at these and others in more detail later in this article.</p>
+<h2 id="jak-dzia-a-uwierzytelnianie-biometryczne">How does biometric authentication work?</h2>
+<p>Biometric technology is used to authenticate a person's identity. It is already a feature of many personal devices, but it is also being used to provide additional security in highly restrictive areas. Governments and corporations are turning to biometric authentication to protect both physical and digital locations.<br /><br />Regardless of who is using them, all biometric security systems contain three key elements:</p>
 <ul>
-<li>Czujnik, kt&oacute;ry przechwytuje dane biometryczne.</li>
-<li>Urządzenie pamięci masowej do przechowywania oryginalnych danych.</li>
-<li>Oprogramowanie do por&oacute;wnywania tych dw&oacute;ch element&oacute;w.</li>
+<li>A sensor that captures biometric data.</li>
+<li>A storage device for storing original data.</li>
+<li>Software to compare the two.</li>
 </ul>
-<p>Proces uwierzytelniania jest dość prosty; weźmy za przykład smartfon z czujnikiem linii papilarnych. Podczas konfigurowania systemu zabezpieczeń biometrycznych, użytkownik podaje sw&oacute;j odcisk palca, a urządzenie przechowuje te dane do wykorzystania w przyszłości. Teraz, przed uzyskaniem dostępu do telefonu, system por&oacute;wna Tw&oacute;j odcisk palca z tym, kt&oacute;ry znajduje się w jego bazie danych. Jeśli się zgadzają, możesz odblokować telefon.</p>
-<p>Poniżej znajduje się lista najpopularniejszych identyfikator&oacute;w biometrycznych oraz spos&oacute;b uwierzytelniania w każdym z nich.</p>
-<p><strong>Skanery linii papilarnych</strong>: Jeden z najbardziej rozpoznawalnych i popularnych typ&oacute;w danych biometrycznych. W większości przypadk&oacute;w użycia, wbudowany skaner bada grzbiety palc&oacute;w, aby uwierzytelnić daną osobę. W niekt&oacute;rych urządzeniach aparat fotograficzny pełni funkcję skanera linii papilarnych.</p>
-<p><strong>Rozpoznawanie głosu</strong>: Ostatnio liczba inteligentnych urządzeń w domach eksplodowała. Urządzenia takie jak Amazon Alexa i Google Home coraz lepiej radzą sobie z rozumieniem poleceń i naśladowaniem wzorc&oacute;w mowy. Uczą się także o ludziach wok&oacute;ł nich. Urządzenia te potrafią nawet zidentyfikować rozm&oacute;wcę, analizując unikalne fale dźwiękowe w jego głosie.</p>
-<p><strong>Rozpoznawanie twarzy</strong>: W swoich początkach oprogramowanie do rozpoznawania twarzy musiało przechowywać wizerunek użytkownika i por&oacute;wnywać go z nowym zdjęciem za każdym razem, gdy ktoś pr&oacute;bował uzyskać dostęp. Obecnie technologia ta skanuje twarz użytkownika w poszukiwaniu unikalnych wzor&oacute;w, a nawet potrafi rozpoznać osoby, kt&oacute;re zmieniły makijaż lub zarost.</p>
-<p><strong>Rozpoznawanie tęcz&oacute;wki</strong>: Chociaż nie jest tak popularna jak rozpoznawanie twarzy, uwierzytelnianie tęcz&oacute;wki oka jest często uważane za bardziej bezpieczne. Rozpoznawanie tęcz&oacute;wki staje się popularne w miejscach o ograniczonym dostępie, takich jak budynki rządowe i laboratoria korporacyjne.</p>
-<p><strong>Geometria dłoni</strong>: Geometria dłoni wykorzystuje specyficzne cechy fizyczne każdej dłoni do identyfikacji jej właściciela. Identyfikatory te obejmują grubość, odcień sk&oacute;ry oraz odległości pomiędzy r&oacute;żnymi punktami na dłoni i palcach.</p>
-<h2 id="mity-i-b-dne-przekonania-na-temat-danych-biometrycznych">Mity i błędne przekonania na temat danych biometrycznych</h2>
-<p>Hollywoodzkie filmy przedstawiają dane biometryczne jako praktycznie nieprzeniknioną obronę. Przestępcy w tych fikcyjnych historiach często muszą uciekać się do użycia odciętego palca lub gałki ocznej ofiary, aby ominąć zabezpieczenia.</p>
-<p>Oczywiście, rzeczywistość jest o wiele mniej makabryczna. Przestępcy nie muszą odrąbywać nikomu kończyn, aby obejść czujniki biometryczne. Mimo to, te wyobrażenia wskazują na błędne przekonania, jakie wciąż ma wiele os&oacute;b. Obalmy kilka mit&oacute;w, kt&oacute;re wciąż pokutują wok&oacute;ł tego tematu:</p>
-<h4 id="mit-1-dane-biometryczne-s-prywatne">Mit 1: Dane biometryczne są prywatne</h4>
-<p>Nie jest. Wrzucasz do Internetu selfie, jesteś filmowany na ulicy, a setki dokument&oacute;w zawierają tw&oacute;j podpis. Większość popularnych identyfikator&oacute;w biometrycznych, takich jak Tw&oacute;j głos, twarz i odciski palc&oacute;w, może zostać pobrana zdalnie. Jeśli korzystasz z medi&oacute;w społecznościowych, wszystkie te cechy fizyczne mogą być całkowicie dostępne dla przestępc&oacute;w dzięki Twoim zdjęciom i nagraniom wideo.</p>
-<p>Możesz być właścicielem swoich odcisk&oacute;w palc&oacute;w i głosu, ale nie jesteś jedyną osobą, kt&oacute;ra ma dostęp do tych unikalnie osobistych element&oacute;w.</p>
-<h3 id="mit-2-biometrii-nie-da-si-zhakowa-">Mit 2: Biometrii nie da się zhakować</h3>
-<p>To prawda, że dane biometryczne, kt&oacute;rych używasz do otwierania aplikacji i odblokowywania urządzeń, nie są łatwe do zdobycia. W większości przypadk&oacute;w są one przechowywane w postaci zaszyfrowanego kodu binarnego, a nie plik&oacute;w graficznych. Jednak w tym przypadku obowiązuje prosta zasada: zapisane dane to dane, kt&oacute;re można zhakować. Nie ma wątpliwości, że cyberprzestępcy chcą uzyskać Twoje dane biometryczne i mają sposoby, aby je zdobyć &ndash; a metody te będą z czasem coraz bardziej wyrafinowane.</p>
-<h3 id="mit-3-dane-biometryczne-stanowi-ulepszenie-w-stosunku-do-hase-">Mit 3: Dane biometryczne stanowią ulepszenie w stosunku do haseł</h3>
-<p>Uwierzytelnianie biometryczne może wydawać się nowoczesną ewolucją staromodnego hasła, ale daleko mu do niepokonalności. W 2014 r. haker Jan &bdquo;Starbug&rdquo; Krissler udowodnił to, gdy wykorzystał zdjęcia do odtworzenia odcisk&oacute;w palc&oacute;w obecnej przewodniczącej Komisji Europejskiej, Ursuli von der Leyen. Dzięki tym zdjęciom 2D był w stanie odblokować jej smartfon. Wiecie, co mogło zapobiec włamaniu? Hasło. Niemniej jednak, biometria może znacznie poprawić Twoje bezpieczeństwo jako jedna z warstw wieloczynnikowego uwierzytelniania.</p>
-<h2 id="czy-nadu-ywanie-danych-biometrycznych-jest-powszechne">Czy nadużywanie danych biometrycznych jest powszechne?</h2>
-<p>Zostawmy na chwilę haker&oacute;w na boku; jest wiele innych powod&oacute;w do niepokoju w związku z powszechnym wykorzystywaniem danych biometrycznych.</p>
-<p>Po pierwsze, mamy do czynienia z nadużyciami korporacyjnymi. Prywatne firmy, takie jak Clearview AI, zajmujące się rozpoznawaniem twarzy, przeszukują internet w poszukiwaniu obraz&oacute;w twarzy, a następnie sprzedają te dane oferentom z najwyższej p&oacute;łki. Ponad 2200 organizacji &ndash; w tym uniwersytety, organy ścigania i supermarkety &ndash; korzysta z bazy danych Clearview AI zawierającej 3 miliardy zdjęć, bez żadnej odpowiedzialności czy nadzoru.</p>
-<p>Problem pogłębia fakt, że identyfikacja biometryczna nie zawsze jest wiarygodna. New York Times opisał niedawno przypadek czarnosk&oacute;rego mężczyzny z USA, kt&oacute;rego system rozpoznawania twarzy błędnie zidentyfikował. Ten błąd techniczny spowodował, że mężczyźnie groziło prawdziwe więzienie.</p>
-<p>Następnie doszło do incydentu z 2018 roku w Australii. Tamtejsza policja pr&oacute;bowała zidentyfikować potencjalnych przestępc&oacute;w po meczu piłkarskim, a ich technologia rozpoznawania twarzy błędnie zidentyfikowała 92% os&oacute;b profilowanych. &bdquo;Żaden system rozpoznawania twarzy nie jest w 100% dokładny we wszystkich warunkach&rdquo; &ndash; wyjaśnił rzecznik policji. Martwisz się? C&oacute;ż, powinieneś się martwić.</p>
-<h2 id="jak-chroni-swoje-dane-biometryczne">Jak chronić swoje dane biometryczne</h2>
-<p>Dane biometryczne wydają się być na czasie, a ich wykorzystanie będzie w przyszłości coraz bardziej powszechne. Jednakże, myślenie w kategoriach bezpieczeństwa i odrobina zdrowego rozsądku mogą pom&oacute;c Ci uchronić się przed negatywnymi skutkami tej technologii.</p>
+<p>The authentication process is fairly simple; take a smartphone with a fingerprint sensor as an example. When you set up the biometric security system, you provide your fingerprint and the device stores that data for future use. Now, before gaining access to your phone, the system will compare your fingerprint with the one in its database. If they match, you can unlock your phone.<br /><br />Below is a list of the most popular biometric identifiers and how to authenticate with each one.</p>
+<p><strong>Fingerprint scanners</strong>: One of the most recognized and popular types of biometrics. In most use cases, a built-in scanner examines the ridges of a finger to authenticate a person. In some devices, the camera acts as a fingerprint scanner.</p>
+<p><strong>Voice Recognition: </strong>Recently, the number of smart devices in homes has exploded. Devices like Amazon Alexa and Google Home are getting better at understanding commands and mimicking speech patterns. They are also learning about the people around them. These devices can even identify a caller by analyzing the unique sound waves in their voice.</p>
+<p><strong>Face Recognition:</strong> In its early days, facial recognition software had to store an image of the user and compare it to a new photo each time someone tried to gain access. Today, the technology scans the user's face for unique patterns and can even recognize people who have changed their makeup or facial hair.</p>
+<p><strong>Iris recognition: </strong>Although not as popular as facial recognition, iris authentication is often considered more secure. Iris recognition is becoming popular in restricted areas such as government buildings and corporate labs.</p>
+<p><strong>Hand geometry:</strong> Hand geometry uses specific physical characteristics of each hand to identify its owner. These identifiers include thickness, skin tone, and distances between various points on the palm and fingers.</p>
+<h2 id="mity-i-b-dne-przekonania-na-temat-danych-biometrycznych">Myths and misconceptions about biometrics</h2>
+<p>Hollywood movies portray biometrics as a virtually impenetrable defense. Criminals in these fictional stories often have to resort to using a victim's severed finger or eyeball to bypass security measures.<br /><br />Of course, the reality is far less gruesome. Criminals don't have to chop off anyone's limbs to bypass biometric sensors. Still, these notions point to misconceptions that many people still have. Let's debunk a few myths that still linger around this topic:</p>
+<h3 id="mit-1-dane-biometryczne-s-prywatne">Myth 1: Biometric data is private</h3>
+<p>It isn't. You post selfies online, you are filmed on the street, and hundreds of documents contain your signature. Most common biometric identifiers, such as your voice, face, and fingerprints, can be taken remotely. If you use social media, all of these physical characteristics can be completely accessible to criminals through your photos and videos.<br /><br />You may own your fingerprints and voice, but you are not the only person who has access to these uniquely personal elements.</p>
+<h3 id="mit-2-biometrii-nie-da-si-zhakowa-">Myth 2: Biometrics cannot be hacked</h3>
+<p>It's true that the biometrics you use to open apps and unlock devices are not easy to get. In most cases, they are stored as encrypted binary code rather than image files. However, a simple rule applies here: stored data is data that can be hacked. There's no doubt that cybercriminals want your biometric data, and they have ways to get it - and those methods will become more sophisticated over time.</p>
+<h3 id="mit-3-dane-biometryczne-stanowi-ulepszenie-w-stosunku-do-hase-">Myth 3: Biometrics are an improvement over passwords</h3>
+<p>Biometric authentication may seem like a modern evolution of the old-fashioned password, but it's far from impossible. In 2014, hacker Jan "Starbug" Krissler proved this when he used photos to recreate the fingerprints of current European Commission President Ursula von der Leyen. Using these 2D photos, he was able to unlock her smartphone. You know what could have prevented the hack? A password. Nevertheless, biometrics can greatly improve your security as one layer of multi-factor authentication.</p>
+<h2 id="czy-nadu-ywanie-danych-biometrycznych-jest-powszechne">Is the misuse of biometrics widespread?</h2>
+<p>Let's leave the hackers aside for a moment; there are many other reasons to be concerned about the widespread use of biometrics.<br /><br />First, there is corporate abuse. Private companies like Clearview AI, a facial recognition company, scour the Internet for facial images and then sell that data to high-end bidders. More than 2,200 organizations-including universities, law enforcement agencies, and supermarkets-use Clearview AI's database of 3 billion images without any accountability or oversight.<br /><br />The problem is compounded by the fact that biometric identification is not always reliable. The New York Times recently described the case of a black American man whose facial recognition system misidentified him. This technical error resulted in the man facing real jail time.<br /><br />Then there was the 2018 incident in Australia. Police there were trying to identify potential criminals after a football game, and their facial recognition technology misidentified 92% of the people profiled. "No facial recognition system is 100% accurate in all conditions," - A police spokesperson explained. Are you worried? Well, you should be worried.</p>
+<h2 id="jak-chroni-swoje-dane-biometryczne">How to protect your biometric data</h2>
+<p>Biometrics seem to be on the upswing, and their use will become more common in the future. However, thinking in terms of security and a little common sense can help you protect yourself from the negative effects of this technology.</p>
 <ul>
-<li>Zastan&oacute;w się dobrze, zanim zdecydujesz się na korzystanie z danych biometrycznych. Uwierzytelnianie biometryczne będzie coraz bardziej popularne, ale to nie znaczy, że zawsze musisz z niego korzystać. Zanim zezwolisz nowej aplikacji na skanowanie Twojego odcisku palca, zastan&oacute;w się przez chwilę nad ryzykiem związanym z bezpieczeństwem. Być może bezpiecznie jest korzystać z biometrii w aplikacji bankowej, ale nowy serwis społecznościowy może pozostać chroniony hasłem. Podejdź do tego indywidualnie.</li>
-<li>Używaj danych biometrycznych do uwierzytelniania dwuskładnikowego, wraz z silnymi hasłami. Hasła nigdzie się nie wybierają. I w przeciwieństwie do danych biometrycznych, możesz zmienić swoje hasło kiedy tylko masz na to ochotę. Skup się na tworzeniu silnych, trudnych do odgadnięcia haseł, a jeśli chcesz używać danych biometrycznych, włącz je jako część dwuskładnikowego uwierzytelniania.</li>
-<li>Skontaktuj się z władzami lokalnymi. Niekt&oacute;re stany USA, Unia Europejska i inne rządy regionalne już podejmują kroki w celu uregulowania wykorzystania danych biometrycznych. Może to być ogromna część debaty na temat bezpieczeństwa danych i prywatności osobistej w przyszłości, więc zaangażuj się. Dowiedz się, co przedstawiciele Twojego rządu myślą o bezpieczeństwie biometrycznym i wyraź sw&oacute;j własny głos.</li>
+<li>Think carefully before you decide to use biometrics. Biometric authentication will become increasingly popular, but that doesn't mean you always have to use it. Before you allow a new app to scan your fingerprint, take a moment to consider the security risks. It may be safe to use biometrics in a banking app, but a new social network may remain password protected. Approach this on a case-by-case basis.</li>
+<li>Use biometrics for two-factor authentication, along with strong passwords. Passwords don't go anywhere. And unlike biometrics, you can change your password whenever you feel like it. Focus on creating strong, hard-to-guess passwords, and if you want to use biometrics, include them as part of two-factor authentication.</li>
+<li>Contact your local authorities. Some US states, the European Union, and other regional governments are already taking steps to regulate the use of biometrics. This could be a huge part of the data security and personal privacy debate in the future, so get involved. Find out what your government representatives think about biometric security and make your own voice heard.</li>
 </ul>
