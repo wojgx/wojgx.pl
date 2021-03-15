@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Authy
+title: Unikanie inwigilacji w Internecie. Jak możesz chronić swoją prywatność?
 description: >-
   Postawmy sprawę jasno: w Internecie jest bardzo mało prywatności. I choć
   wydaje Ci się, że nie jesteś wystarczająco interesujący, aby być monitorowanym
