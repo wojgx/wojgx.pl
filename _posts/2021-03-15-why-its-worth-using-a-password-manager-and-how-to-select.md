@@ -1,42 +1,42 @@
 ---
 layout: post
-title: Dlaczego warto korzystać menadżera haseł i jaki wybrać?
+title: Why use a password manager and which one to choose?
 description: >-
-  Menadżer haseł, czyli nasza baza z najważniejszymi danymi do logowania w
-  różnych serwisach i nie tylko. W tym wpisie dowiesz się dlaczego warto z niego
-  korzystać oraz jaki wybrać.
+  Password manager is our database with the most important data for logging into
+  various services and not only. In this entry you will learn why to use it and
+  which one to choose.
 summary: >-
-  Menadżer haseł, czyli nasza baza z najważniejszymi danymi do logowania w
-  różnych serwisach i nie tylko. W tym wpisie dowiesz się dlaczego warto z niego
-  korzystać oraz jaki wybrać.
+  Password manager is our database with the most important data for logging into
+  various services and not only. In this entry you will learn why to use it and
+  which one to choose.
 tags:
-  - cyberbezpieczeństwo
+  - cybersecurity
+  - en
 
 ---
-<h2 id="co-to-jest-menad-er-hase-">Co to jest Menadżer haseł?</h2>
-<p><strong>Menadżer haseł</strong> to po prostu bezpieczna baza zawierająca loginy i hasła, piny, czasami r&oacute;wnież kody do dwuetapowego logowania, pozwala zarządzać ważnymi danymi wrażliwymi, jest ona zabezpieczona przed nieautoryzowanym logowaniem.</p>
-<p>Dzięki menadżerowi haseł nie musisz pamiętać wszystkich swoich haseł, wystarczy, że zapamiętasz dwa hasła. Jedno do komputera, a drugie do samego menadżera. Menadżer pozwala na przechowywanie skomplikowanych i długich haseł, a także ich wygenerowanie, dzięki wbudowanemu generatorowi.</p>
-<h2 id="polityka-bezpiecznego-has-a">Polityka bezpiecznego hasła</h2>
-<p><strong>Co to znaczy bezpieczne hasło?</strong></p>
-<p>Bezpieczne hasło to takie, kt&oacute;re składa się z:</p>
+<h2 id="co-to-jest-menad-er-hase-">What is the Password Manager?</h2>
+<p>Password manager is simply a secure database containing logins and passwords, pins, sometimes also codes for two-step login, it allows you to manage important sensitive data, it is protected against unauthorized login.<br /><br />With a password manager, you don't need to remember all your passwords, you just need to remember two passwords. One for your computer and the other for the manager itself. The manager allows you to store complicated and long passwords, as well as generate them, thanks to the built-in generator.</p>
+<h2 id="polityka-bezpiecznego-has-a">Secure Password Policy</h2>
+<p><strong>What does a secure password mean?</strong></p>
+<p>A secure password is one that consists of:</p>
 <ul>
-<li>minimum 8 znak&oacute;w,</li>
-<li>nie zawiera nazwy twojej usługi oraz danych, kt&oacute;re można z tobą powiązać,</li>
-<li>małych i dużych liter</li>
-<li>cyfr oraz znak&oacute;w specjalnych (np. !, @,$,%)</li>
+<li>8 characters minimum,</li>
+<li>does not contain the name of your service or data that can be linked to you,</li>
+<li>upper and lower case letters&nbsp;&nbsp;&nbsp;</li>
+<li>numbers and special characters (e.g. !, @,$,%)</li>
 </ul>
-<h2 id="jakie-menad-er-hase-wybra-">Jakie menadżer haseł wybrać?</h2>
-<p>Menadżery haseł można podzielić na</p>
-<h5 id="selfhosted-samohostowane">Selfhosted &ndash; samohostowane</h5>
-<p>Takie, kt&oacute;re możemy zainstalować samodzielnie na serwerze lub komputerze.</p>
+<h2>Which password manager should I choose?</h2>
+<p>Password managers can be divided into</p>
+<h5 id="selfhosted-samohostowane">Self-hosted</h5>
+<p>One that we can install ourselves on a server or computer.</p>
 <ul>
-<li>do instalacji na serwerze:</li>
+<li>for installation on the server:</li>
 </ul>
 <p><a href="https://github.com/bitwarden/server">https://github.com/bitwarden/server</a></p>
 <ul>
-<li>do instalacji na komputerze:</li>
+<li>for installation on your computer:</li>
 </ul>
 <p><a href="https://keepassxc.org/">https://keepassxc.org/</a></p>
-<h5 id="centralizowane">Centralizowane</h5>
-<p>Takie z kt&oacute;rych możemy korzystać instalując zaledwie rozszerzenie do przeglądarki.</p>
+<h5 id="centralizowane">Centralized</h5>
+<p>The ones we can use by just installing a browser extension.</p>
 <p><a href="https://bitwarden.com/">https://bitwarden.com/</a></p>
