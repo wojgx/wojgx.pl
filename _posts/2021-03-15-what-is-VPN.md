@@ -1,68 +1,51 @@
 ---
 layout: post
-title: Co to jest VPN?
+title: What is a VPN?
 description: >-
-  VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna
-  sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w
-  dodatku bardzo utrudnia identyfikację tożsamości.
+  VPN literally means virtual private network. This network encrypts your
+  traffic or activities on the Internet and makes it very difficult to identify
+  your identity.
 summary: >-
-  VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna
-  sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w
-  dodatku bardzo utrudnia identyfikację tożsamości.
+  VPN literally means virtual private network. This network encrypts your
+  traffic or activities on the Internet and makes it very difficult to identify
+  your identity.
 tags:
-  - cyberbezpieczeństwo
+  - cybersecurity
 
 ---
 <div class="entry-content">
-<p>VPN w dosłownym tłumaczeniu to virtual private network, czyli pl. wirtualna sieć prywatna. Sieć ta szyfruje ona ruch, czyli działania w Internecie w dodatku bardzo utrudnia identyfikację tożsamości.</p>
-<h2 id="kategorie-sieci-vpn">Kategorie sieci VPN</h2>
-<p>Sieć VPN możemy podzielić na dwie kategorie:</p>
-<p><strong>firmowy</strong> &ndash; pozwalający nam na połączenie się z służbowy komputerem w pracy z dowolengo miejsca na świecie. Ruch w takiej sieci może być monitorowany przez administratora, czyli firmę w kt&oacute;rej pracujemy. Działania w takiej sieci mogą być ograniczone.</p>
-<p><strong>prywatny</strong> &ndash; pozwalający nam na anonimizację i ochronę tożsamości, czyli zmianę adresu ip i wirtualnej lokalizacji. Ruch w takiej sieci r&oacute;wnież może być monitorowany, ale im lepszy VPN, tym mniej informacji zbiera. Gdy połączymy się z taką siecią możemy przeglądać dowolne treści np. niedostępne dla naszego kraju ze względu na ograniczenia geoterytorialne np. Netflix.</p>
-<h2 id="jak-dzia-a-vpn">Jak działa VPN?</h2>
-<p>VPN to szyfrowane połączenie między dwiema sieciami lub między użytkownikiem i siecią.</p>
+<p>VPN literally means virtual private network. This network encrypts your traffic or activities on the Internet and makes it very difficult to identify your identity.</p>
+<h2 id="kategorie-sieci-vpn">Categories of VPNs</h2>
+<p>We can divide VPN into two categories:</p>
+<strong>corporate</strong> - allows us to connect to the company computer at work from any place in the world. Traffic in such network can be monitored by administrator - company in which we work. Activities in such network can be limited.<br /><br /><strong>private</strong> - allows us to anonymize and protect identity, that is, change the ip address and virtual location. Traffic in such a network may also be monitored, but the better VPN, the less information it collects. When we connect to such a network we can browse any content e.g. unavailable for our country due to geo-territorial restrictions e.g. Netflix.</div>
+<div class="entry-content">&nbsp;</div>
+<h2 class="entry-content">How does a VPN work?</h2>
+<p class="entry-content">A VPN is an encrypted connection between two networks or between a user and a network.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/v3DcxEH.png" alt="Jak działa sieć VPN" /></figure>
-<h2 id="dlaczego-korzystanie-z-vpn-a-jest-takie-wa-ne">Dlaczego korzystanie z VPN&rsquo;a jest takie ważne?</h2>
-<p>Korzystanie z sieci VPN jest ważne, ponieważ, dzięki temu po pierwsze nasz dostawca internetu widzi, że jesteśmy z jakimś serwerem połączeni, ale nie może analizować ruchu w sieci ani go ograniczać w żaden spos&oacute;b. Pozwala na omijanie cenzury i ograniczeń geograficznych przykładowo, gdy jesteśmy w kraju, gdzie jest cenzura jak Rosja, Chiny czy Turcja, Iran.</p>
-<p>Dodaje nam większego bezpieczeństwa przy korzystaniu z publicznych sieci wifi, ale og&oacute;lnie się nie zaleca podłączać nawet z VPN&rsquo;em do takiej sieci. Umożliwa nam pobieranie torrent&oacute;w oraz pozwala na ochronę przed atakami typu DDoS, czyli odmowy usługi &ndash; masowy atak na ofiarę.</p>
+<h2>Why is using a VPN so important?</h2>
+<p>Using a VPN is important because, first of all, thanks to it our Internet provider can see that we are connected to some server but it cannot analyze the traffic in the network or restrict it in any way. It allows us to bypass censorship and geographical restrictions, for example, when we are in a country where there is censorship such as Russia, China or Turkey, Iran.It gives us more security when using public wifi networks, but generally it is not recommended to connect even with a VPN to such a network. It allows us to download torrents and allows protection against DDoS attacks, i.e. denial of service - a massive attack on the victim.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/fS5VZLr.png" alt="323" /></figure>
-<h2 id="jakiego-vpn-a-wybra-">Jakiego VPN&rsquo;a wybrać?</h2>
-<p>Na rynku mamy wiele dostępnych rozwiązań bezpłatne i płatne, ale dlaczego nie warto korzystać z bezpłatnego?</p>
-<p>Bezpłatny VPN w rzeczywistości jest bezpłatny, ale płacimy w nim danymi i analizą całego ruchu sieciowego, zmienia adres ip, ale wszelkie działania są monitorowane i logowane, tak jak w przypadku komercyjnych rozwiązań.</p>
-<p>Mamy rozwiązania takie, kt&oacute;re możemy samodzielnie zainstalować na serwerze i takie, kt&oacute;re sprzedają gotową usługę w formie subskrybcji, czyli za opłatą miesięczną otrzymujemy dostęp do danej ilości serwer&oacute;w w r&oacute;żnych lokalizacjach.<br />Selfhosted</p>
-<p>Opcja dla bardziej zaawansowanych, ponieważ tutaj trzeba potrafić zainstalować serwer VPN na swoim serwerze VPS.</p>
-<p><strong>Rozwiązania są dwa</strong>:</p>
+<h2>Which VPN to choose?</h2>
+<p>We have many free and paid solutions available on the market, but why not use the free one?<br /><br />Free VPN in fact is free, but we pay in it with data and analysis of all network traffic, changes ip address, but all activities are monitored and logged, just like in the case of commercial solutions.<br /><br />We have such solutions that we can install on the server ourselves and those that sell a ready-made service in the form of a subscription, that is, for a monthly fee we get access to a given number of servers in different locations.<br />Self-hosted<br /><br />An option for the more advanced, because here you need to be able to install a VPN server on your VPS server.<br /><br /></p>
+<p><strong>The solutions are two:</strong></p>
 <ul>
 <li>OpenVPN &ndash; <a href="https://github.com/Nyr/openvpn-install">https://github.com/Nyr/openvpn-install</a></li>
 <li>AlgoVPN &ndash; <a href="https://github.com/trailofbits/algo">https://github.com/trailofbits/algo</a></li>
 </ul>
 <p>&nbsp;</p>
-<p>Oba rozwiązania r&oacute;żnią się szyfrowaniem i pod względem wykorzystanych protokoł&oacute;w, od siebie zdecydowanie bardziej mogę polecić AlgoVPN z kt&oacute;rego przez dłuższy czas korzystałem. Mniej organicza łącze, a ma większy poziom szyfrowania niż OpenVPN.</p>
-<p>Tani hosting pod VPNa, gdzie VPS jest za 2,5 USD</p>
+<p>Both solutions differ in encryption and protocols used, but I can definitely recommend AlgoVPN which I used for a long time. It consumes less bandwidth and has a higher level of encryption than OpenVPN.<br /><br />Cheap hosting for VPN, where VPS is $2.5</p>
 <p><a href="https://www.vultr.com/" target="_blank" rel="noopener">https://www.vultr.com/</a></p>
 <figure class="wp-block-embed">
 <div class="wp-block-embed__wrapper">&nbsp;</div>
 </figure>
-<p>r&oacute;wnież tani hosting pod serwer, ale tym razem w Europie za 3.06 EURO</p>
+<p>also cheap server hosting, but this time in Europe for 3.06 EURO</p>
 <p><a href="https://www.hetzner.com/" target="_blank" rel="noopener">https://www.hetzner.com/</a></p>
 <p>&nbsp;</p>
-<h3 id="rozwi-zanie-subskrybcyjne">Rozwiązanie subskrybcyjne</h3>
+<h3 id="rozwi-zanie-subskrybcyjne">Subscription solution</h3>
 <h5 id="protonvpn">ProtonVPN</h5>
-<p>Istnieje jedno darmowe rozwiązanie, kt&oacute;re nazywa się ProtonVPN, kt&oacute;ry w darmowej opcji umożliwia 1 połączenie z siecią w 3 lokalizacjach w średniej prędkości. Proton pochodzi ze Szwajcarii, a kraj ten jest znany z ich rygorystycznych zasad dotyczących danych i prywatności.</p>
-<p>Na stronie chwalą się, że nie zapisują log&oacute;w, chronią wysokim szyfrowaniem AES-256 z pomocą protokoł&oacute;w OpenVPNa.</p>
-<p>Jednakże osobiście nieufam tej darmowej usłudze, więc jak chcecie możecie skorzystać, ale na własną odpowiedzialność.</p>
-<p>ProtonVPN posiada poza darmowymi opcjami r&oacute;wnież płatne, im droższy tym więcej serwer&oacute;w wsiera i tym większa prędkość.</p>
+<p>There is one free solution that is called ProtonVPN, which in the free option allows 1 network connection in 3 locations at medium speed. Proton comes from Switzerland, and the country is known for their strict data and privacy policies.<br /><br />On the site they boast that they don't log, they protect with high AES-256 encryption with the help of OpenVPNa protocols.<br /><br />However, I personally distrust this free service, so if you want you can use it, but at your own risk.<br /><br />ProtonVPN has besides free options also paid ones, the more expensive the more servers it supports and the higher the speed.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/h0YGZDB.png" alt="vv" /></figure>
 <h5 id="nordvpn">NordVPN</h5>
-<p>Na koniec rozwiązanie z kt&oacute;rego korzystam na codzień, czyli NordVPN, jak na razie to jest najlepszy VPN z kt&oacute;rego korzystałem w formie subskrybcji.</p>
-<p>Siedziba Norda znajduje się w Panamie, posiada on 5559 serwer&oacute;w w 59 krajach na świecie. Wspiera najpopularniejsze protokoły:</p>
-<ul>
-<li>OpenVPN UDP/TCP,</li>
-<li>IKEv2/IPSec,</li>
-<li>NordLynx</li>
-</ul>
-<p>Posiada serwery pozwalające na połączenie z Torem, dostępne są serwery r&oacute;wnież przystosowane do P2P i możliwość połączenia z dwoma serwerami VPN jednocześnie.</p>
-<p>W przeciwieństwie do Protona NordVPN posiada jedną opcję do wyboru, kt&oacute;ra oferuje nam dostęp do wszystkich serwer&oacute;w. R&oacute;żni się tylko czas i cena w opcjach, ale dostęp jest taki sam.</p>
+<p>Finally, the solution I use on a daily basis is NordVPN, so far this is the best VPN I have used as a subscription.<br /><br />Nord is headquartered in Panama and has 5559 servers in 59 countries around the world. It has servers that allow you to connect to Tor, there are servers also suitable for P2P and the ability to connect to two VPN servers simultaneously.<br /><br />Unlike Proton, NordVPN has one option to choose from that offers us access to all servers. Only the time and price in the options differs, but the access is the same.</p>
 <figure class="wp-block-image"><img src="https://i.imgur.com/KpZjUoz.png" alt="nord" /></figure>
-<p>Serwery Norda pozwalają na swodobne przeglądanie internetu, oglądanie film&oacute;w, słuchanie muzyki, granie.</p>
-</div>
+<p>Nord's servers allow you to browse the Internet, watch movies, listen to music, play games.</p>
