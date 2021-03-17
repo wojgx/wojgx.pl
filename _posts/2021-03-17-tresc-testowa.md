@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Authy
+title: Test
 description: >-
   To aplikacja do dwuetapowej weryfikacji, alternatywa dla Google Authenticator.
   Dlaczego Authy jest lepsze od rozwiązania Google?
 summary: >-
   To aplikacja do dwuetapowej weryfikacji, alternatywa dla Google Authenticator.
   Dlaczego Authy jest lepsze od rozwiązania Google?
-tags:
-  - cyberbezpieczeństwo
+tags: []
 
 ---
 <p>Podstawową funkcją jaką pełnią obie aplikacje, to generowanie kod&oacute;w jednorazowych w trybie online/offline, więc wygenerowanie kodu nie wymaga podłączenie do internetu, dostępne są na iOSa i Androida, z<br />przydatną r&oacute;żnicą na plus Authy, kt&oacute;ry r&oacute;wnież jest dostępny na Apple Watcha i komputery.</p>
